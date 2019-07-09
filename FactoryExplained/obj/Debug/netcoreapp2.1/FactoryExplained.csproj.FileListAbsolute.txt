@@ -1,0 +1,11 @@
+C:\Users\Nemanja Djordjevic\source\repos\FactoryExplained\FactoryExplained\obj\Debug\netcoreapp2.1\FactoryExplained.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\FactoryExplained\FactoryExplained\obj\Debug\netcoreapp2.1\FactoryExplained.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\FactoryExplained\FactoryExplained\obj\Debug\netcoreapp2.1\FactoryExplained.AssemblyInfoInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\FactoryExplained\FactoryExplained\obj\Debug\netcoreapp2.1\FactoryExplained.AssemblyInfo.cs
+C:\Users\Nemanja Djordjevic\source\repos\FactoryExplained\FactoryExplained\bin\Debug\netcoreapp2.1\FactoryExplained.deps.json
+C:\Users\Nemanja Djordjevic\source\repos\FactoryExplained\FactoryExplained\bin\Debug\netcoreapp2.1\FactoryExplained.runtimeconfig.json
+C:\Users\Nemanja Djordjevic\source\repos\FactoryExplained\FactoryExplained\bin\Debug\netcoreapp2.1\FactoryExplained.runtimeconfig.dev.json
+C:\Users\Nemanja Djordjevic\source\repos\FactoryExplained\FactoryExplained\bin\Debug\netcoreapp2.1\FactoryExplained.dll
+C:\Users\Nemanja Djordjevic\source\repos\FactoryExplained\FactoryExplained\bin\Debug\netcoreapp2.1\FactoryExplained.pdb
+C:\Users\Nemanja Djordjevic\source\repos\FactoryExplained\FactoryExplained\obj\Debug\netcoreapp2.1\FactoryExplained.dll
+C:\Users\Nemanja Djordjevic\source\repos\FactoryExplained\FactoryExplained\obj\Debug\netcoreapp2.1\FactoryExplained.pdb
